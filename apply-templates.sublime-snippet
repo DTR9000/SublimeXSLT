@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<xsl:apply-templates${1: select="${2}"}${3: mode="${4}"} />]]></content>
+  <content><![CDATA[<xsl:apply-templates/>]]></content>
   <tabTrigger>ap</tabTrigger>
   <scope>text.xml.xsl</scope>
   <description>apply-templates</description>
