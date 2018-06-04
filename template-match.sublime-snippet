@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<xsl:template match="${1}"${2: mode="${3}"}>
+  <content><![CDATA[<xsl:template match="${1}"}>
 	${0}
 </xsl:template>]]></content>
   <tabTrigger>tm</tabTrigger>
